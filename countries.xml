@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <id>1</id>
+    <name>Europe</name>
+  </item>
+  <item>
+    <id>2</id>
+    <name>Northern Europe</name>
+    <parent_id>1</parent_id>
+  </item>
+  <item>
+    <id>3</id>
+    <name>Norway</name>
+    <parent_id>2</parent_id>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>4</id>
+    <parent_id>2</parent_id>
+    <name>Sweden</name>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>5</id>
+    <parent_id>2</parent_id>
+    <name>Finland</name>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>6</id>
+    <name>Denmark</name>
+    <parent_id>2</parent_id>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>7</id>
+    <parent_id>1</parent_id>
+    <name>Western Europe</name>
+  </item>
+  <item>
+    <id>8</id>
+    <parent_id>7</parent_id>
+    <name>Austria</name>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>9</id>
+    <parent_id>7</parent_id>
+    <name>Belgium</name>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>10</id>
+    <parent_id>7</parent_id>
+    <name>France</name>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>11</id>
+    <parent_id>7</parent_id>
+    <name>Germany</name>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>12</id>
+    <name>Southern Europe</name>
+    <parent_id>1</parent_id>
+  </item>
+  <item>
+    <id>13</id>
+    <parent_id>12</parent_id>
+    <name>Spain</name>
+    <leaf>1</leaf>
+  </item>
+  <item>
+    <id>14</id>
+    <parent_id>12</parent_id>
+    <name>Portugal</name>
+    <leaf>1</leaf>
+  </item>
+
+
+
+</menu>
